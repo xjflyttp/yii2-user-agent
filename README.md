@@ -4,7 +4,7 @@
 ## composer.json
 ```json
 "require": {
-    "yii2-user-agent": "~1.0.0"
+    "xj/yii2-user-agent": "~1.0.0"
 }
 ```
 

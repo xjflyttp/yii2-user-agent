@@ -1,0 +1,21 @@
+{
+    "name": "xj/yii2-user-agent",
+    "description": "yii2-user-agent",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "xjflyttp",
+            "email": "xjflyttp@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "donatj/phpuseragentparser": ">=0.3.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "xj\\ua\\": ""
+        }
+    }
+}
